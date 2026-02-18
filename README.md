@@ -159,12 +159,13 @@ python AIMouse.py
 ```
 Kinetic-OS/
 │
+|-- hand_landmarker.task  # MediaPipe API file
 ├── HandTrackingModule.py   # Core API
 ├── AIMouse.py              # Virtual Mouse Logic
 ├── MouseSettingsGUI.py     # Settings Dashboard
-├── HandTrackingGUI.py      # Telemetry & Logger
+├── HTM_GUI.py      # Telemetry & Logger
 ├── settings.json           # Persistent Configuration
-└── hand_data_log.csv       # Generated Dataset
+└── hand_data_log.csv     # Generated Dataset
 ```
 
 ---
