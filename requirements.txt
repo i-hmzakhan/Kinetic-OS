@@ -1,0 +1,14 @@
+# --- AI & Computer Vision ---
+mediapipe
+opencv-python
+numpy
+
+# --- GUI & Image Processing ---
+customtkinter
+Pillow
+
+# --- System Control ---
+pyautogui
+
+# ---MediaPipe API File ---
+# Make sure to keep the 'hand_tracker.task' file in the root folder.
